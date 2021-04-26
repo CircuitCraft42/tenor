@@ -1,0 +1,5 @@
+namespace Tenor {
+  class Tenor {
+    
+  }
+}
